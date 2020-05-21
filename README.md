@@ -1,4 +1,5 @@
 # CPE231 - Computerized Maintenance Management System
+**FYI:** This project contains *only task management system* not the whole system. 
 
 ## Tools used:
 
