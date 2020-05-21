@@ -1,0 +1,24 @@
+# Backend
+node_modules/
+.env
+package-lock.json
+yarn.lock
+
+# Frontend
+src/.DS_Store
+src/node_modules
+src//dist
+src/.env.local
+src/.env.*.local
+src/npm-debug.log*
+src/yarn-debug.log*
+src/yarn-error.log*
+src/.idea
+src/.vscode
+src/*.suo
+src/*.ntvs*
+src/*.njsproj
+src/*.sln
+src/*.sw?
+src/package-lock.json
+src/yarn.lock
